@@ -3,8 +3,10 @@ using namespace std;
 
 class bangundatar {
 
-    private:
+    private: //akses modifier
         float pannjang, lebar;
+    public:
+        float Luas;
 
 
 };
