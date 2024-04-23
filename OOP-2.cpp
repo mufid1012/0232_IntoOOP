@@ -15,5 +15,9 @@ class bangundatar {
         cin >> Lebar;
     }
 
+    float hitungLuas() {
+        return panjang * Lebar;
+    }
+
 
 };
